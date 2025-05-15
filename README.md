@@ -60,4 +60,4 @@ This code is available for personal use, and the author takes no responsibility 
 
 ## Telegram Channel
 
-For updates and discussions, you can join the Telegram channel: [SizaGodCh](https://t.me/SizaGodCh)
+For updates and discussions, you can join the Telegram channel: [SizaGodCh](https://t.me/SizaGods)
